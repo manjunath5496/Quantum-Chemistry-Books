@@ -32,6 +32,26 @@
                                 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-Chemistry-Books/blob/master/qc(20).pdf" style="text-decoration:none;">Conceptual Perspectives in Quantum Chemistry</a></b></li>  
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-Chemistry-Books/blob/master/qc(21).pdf" style="text-decoration:none;">Physics for Mathematicians: Mechanics I</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-Chemistry-Books/blob/master/qc(21).rar" style="text-decoration:none;">Chemical Applications of Group Theory</a></b></li>  
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-Chemistry-Books/blob/master/qc(22).pdf" style="text-decoration:none;">A Chemist's Guide to Density Functional Theory</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-Chemistry-Books/blob/master/qc(23).pdf" style="text-decoration:none;">Quantum Mechanics Made Simple: Lecture Notes</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-Chemistry-Books/blob/master/qc(24).pdf" style="text-decoration:none;">Frontiers in Quantum Methods and Applications in Chemistry and Physics</a></b></li>
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-Chemistry-Books/blob/master/qc(25).pdf" style="text-decoration:none;">Molecular Quantum Mechanics</a></b></li>  
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 </ul>
